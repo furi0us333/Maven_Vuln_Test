@@ -18,6 +18,13 @@
         <version>1.17</version>
         <classifier>sources</classifier>
 	</dependency>
+    
+        <dependency>
+        <groupId>org.apache.zookeeper</groupId>
+        <artifactId>zookeeper</artifactId>
+        <version>3.9.0</version>
+        <classifier>sources</classifier>
+	</dependency>
     </dependencies>
 
     <properties>
